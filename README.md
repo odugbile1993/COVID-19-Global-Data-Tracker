@@ -59,23 +59,23 @@ git clone <repository-url>
 
 cd covid-analysis
 
-#2. Ensure the dataset owid-covid-data.csv is in your working directory.
+##2. Ensure the dataset owid-covid-data.csv is in your working directory.
 
-#3. Install required libraries:
+##3. Install required libraries:
 
 pip install pandas numpy matplotlib
 
-#4. Run the Jupyter notebook or Python script:
+##4. Run the Jupyter notebook or Python script:
 
 jupyter notebook covid_analysis.ipynb
 
-# OR
+## OR
 
 python covid_analysis.py
 
 ---
 
-#5. The analysis will produce covid_analysis_report.pdf with all figures and key insights.
+##5. The analysis will produce covid_analysis_report.pdf with all figures and key insights.
 
 🔍 Key Analyses & Visualizations
 
@@ -93,7 +93,7 @@ Latest Totals Comparison — bar chart
 
 ---
 
-Summary & Insights — narrative page in PDF
+##Summary & Insights — narrative page in PDF
 
 💡 Key Insights
 
@@ -109,7 +109,7 @@ Trends & patterns are useful for policymakers, health authorities, and the gener
 
 ---
 
-📄 Deliverables
+##📄 Deliverables
 
 covid_analysis_report.pdf — Comprehensive report with plots and insights
 
@@ -117,10 +117,10 @@ Jupyter Notebook — Fully reproducible analysis with code and explanations
 
 Cleaned dataset ready for further analysis
 
-🌟 Contributing
+##🌟 Contributing
 
 Contributions, suggestions, and improvements are welcome. Please submit a pull request or open an issue for discussion.
 
-📧 Contact
+##📧 Contact
 
 Ayodele Odugbile — drolalekan.ayodele@gmail.com
